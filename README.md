@@ -16,11 +16,11 @@
 
 <p align="center">
 <p align="center">
-<a href="#"><img title="Arfansyah Dani" src="https://img.shields.io/badge/FERDIZ_afk-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Arfansyah Dani" src="https://img.shields.io/badge/DannnMalesin-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <br>
 <!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2DannnMalesin" alt="PENGGUNJUNG GITHUB"-->
 <p align='center'>
-  <a href="https://gi
+<a href="https://github.com/DannnMalesin"><img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me//6285335061051"><img src="https://img.shields.io/badge/whatsApp%20-%23339933.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://Instagram.com/arfansyahdanni"><img src="https://img.shields.io/badge/Instagram%20-%23cc6699.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
