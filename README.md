@@ -9,7 +9,7 @@
         <img src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/1.jpg" alt="Dannnn" width="150" class="rounded-circle img-thumbnail" />
         <br>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=FERDIZ-afk.FERDIZ-afk??style=for-the-badge&logo=appveyor"></a><br>
-  <a href="https://github.com/DannnMalesin"><img src="https://cardivo.vercel.app/api?name=DannnMalesin&description=Hai,%20saya%20Arfansyah Dani%20dan%20saya%20hanya%20seorang%20pemula.0%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=arfansyahdanni&github=DannnMalesin&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/DannnMalesin"><img src="https://cardivo.vercel.app/api?name=DannnMalesin&description=Hai,%20saya%20Arfansyah Dani%20dan%20saya%20hanya%20seorang%20pemula%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=arfansyahdanni&github=DannnMalesin&pattern=leaf&colorPattern=%23eaeaea" /><a>
   <a href="https://github.com/DannnMalesin"><img src="https://cardivo.vercel.app/api?name=Dia&&description=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
 </p>
 
@@ -28,7 +28,7 @@
 
 ___
 
-### [`👇 MY biodata`](https://ferdiz-afk.herokuapp.com)
+### [`👇 MY biodata`](https://wa.me/6285335061051)
 ```
 Intro = {
 "Full Name": "Arfansyah Dani Syaputra",
